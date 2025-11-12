@@ -37,7 +37,7 @@ This lab consists of:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ansible-lab-rocky-linux.git
+git clone https://github.com/grepghost/ansible-lab-rocky-linux.git
 cd ansible-lab-rocky-linux
 
 # Start the lab
