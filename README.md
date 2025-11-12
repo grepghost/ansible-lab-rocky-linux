@@ -1,4 +1,4 @@
-# Ansible Practice Lab — Rocky Linux (ARM / macOS)
+# Ansible Practice Lab with Rocky Linux (ARM / macOS)
 
 A small lab that lets you spend time on playbooks, not setup.
 
